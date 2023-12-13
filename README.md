@@ -1,2 +1,2 @@
-# The-History-Of-Project
+# TheHistoryOf-Project
 The History Of Project for my Web II Class
